@@ -12,7 +12,7 @@ The **“Kinematics of the Stewart Platform”** project focuses on analyzing an
 
 3. **Modifications and Deliverables:**
    - **Python Implementation**: Replace MATLAB with Python for numerical computations.
-   - **Additional Analysis in Activity **:
+   - **Additional Analysis in Activity**:
      - Specify the numerical solver used (e.g., **bisection method**, **fixed-point iteration (FPI)**, or **Newton's method**) and justify the choice.
      - Explain the initialization process for the solver (e.g., choosing the initial interval or starting point).
      - Define the stopping condition (e.g., tolerance level) and evaluate the accuracy of the computed root.
